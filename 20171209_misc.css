@@ -1,0 +1,31 @@
+body {
+	font-family: verdana
+}
+
+.start {
+	text-align: center;
+	background: gainsboro;
+	padding-bottom: 20px;
+}
+
+.start h1 {
+	font-size: 100px;
+	margin-top: 0px;
+}
+
+.start h3 {
+	font-size: 30px;
+}
+	
+.start a {
+	font-size: 30px;
+	color: black;
+	text-decoration: none;
+	border: solid black 1.5px;
+	padding: 5px;
+}
+
+.start a:hover {
+	border: none;
+}
+	

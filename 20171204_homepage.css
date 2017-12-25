@@ -1,0 +1,121 @@
+body {
+	font-family: verdana;
+}
+
+.start {
+	text-align: center;
+	background-image: url("https://syncrafter.github.io/notebook.png");
+	background-size: cover;
+	padding-bottom: 20px;
+}
+
+.start h1 {
+	font-size: 100px;
+	margin-top: 0px;
+	text-decoration: bold;
+}
+
+.start h2 {
+	font-size: 70px;
+}
+
+.start h3 {
+	font-size: 30px;
+}
+
+.latest h1 {
+	font-size: 70px;
+	background: gainsboro;
+	margin-top: 0px;
+}
+
+.latest a {
+	color: black;
+	border: solid black 1.5px;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.latest a:hover {
+	border: none;
+}
+	
+.categories h2 {
+	font-size: 40px;
+	background: gainsboro;
+}
+
+.people h3 {
+	font-size: 30px;
+}
+
+.people a {
+	color: black;
+	border: solid black 1.5px;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.people a:hover {
+	border: none;
+}
+
+.school h3 {
+	font-size: 30px;
+}
+
+.school a {
+	color: black;
+	border: solid black 1.5px;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.school a:hover {
+	border: none;
+}
+
+.current_events h3 {
+	font-size: 30px;
+}
+
+.current_events a {
+	color: black;
+	border: solid black 1.5px;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.current_events a:hover {
+	border: none;
+}
+
+.misc h3 {
+	font-size: 30px;
+}
+
+.misc a {
+	color: black;
+	border: solid black 1.5px;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.misc a:hover {
+	border: none;
+}
+
+.contact {
+	background: gainsboro;
+	margin-top: 25px;
+}
+
+.contact a {
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.contact a:hover {
+	background: white;
+}
