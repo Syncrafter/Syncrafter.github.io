@@ -2,19 +2,19 @@ body {
 	font-family: verdana;
 }
 
-.menu {
-	font-size: 80;
-	font-color: white;
-	background-color: gray;
-	text-decoration: none;
-}
-
 .start {
 	text-align: center;
 	background-image: url("https://syncrafter.github.io/notebook.png");
 	background-size: cover;
 	padding-bottom: 20px;
 	margin: 0px;
+}
+
+.menu {
+	font-size: 80;
+	font-color: white;
+	background-color: gray;
+	text-decoration: none;
 }
 
 .start h1 {
