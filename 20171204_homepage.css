@@ -25,13 +25,16 @@ body {
 }
 
 .menu {
-	font-size: 40px;
-	color: white;
 	background: gray;
 	margin: 0px;
-	text-decoration: none;
 }
 
+.menu a {
+	font-size: 40px;
+	color: white;
+	text-decoration: none;
+}
+	
 .latest h1 {
 	font-size: 70px;
 	background: gainsboro;
