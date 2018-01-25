@@ -31,10 +31,14 @@ body {
 }
 
 .menu a {
-    color: white;
-    text-decoration: none;
-    margin: 10px;
+	color: white;
+	text-decoration: none;
+    	margin: 10px;
 }
+
+.menu a:hover {
+	color: black;
+	background: none;
 
 .latest h1 {
 	font-size: 70px;
